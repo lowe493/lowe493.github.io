@@ -1,6 +1,6 @@
 <addon id="ipcheck.autoexec"
        name="IP Check"
-       version="0.0.5"
+       version="1.0.5"
        provider-name="lowe493">
 
     <requires>

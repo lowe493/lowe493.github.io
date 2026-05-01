@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="repository.lowe493" name="lowe493 Repository" version="1.0" provider-name="lowe493">
+<addons><addon id="ipcheck.autoexec" name="IP Check" version="1.0.0" provider-name="lowe493">
+
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+    </requires>
+
+    <extension point="xbmc.service" library="autoexec.py" />
+
+    <extension point="xbmc.addon.metadata">
+        <summary>Displays your external IP on startup</summary>
+        <description>Checks and shows your public IP when Kodi starts.</description>
+        <platform>all</platform>
+    </extension>
+
+</addon><addon id="repository.lowe493" name="lowe493 Repository" version="1.0" provider-name="lowe493">
     <extension point="xbmc.addon.repository" name="lowe493 Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/lowe493/lowe493.github.io/master/repo/zips/addons.xml</info>

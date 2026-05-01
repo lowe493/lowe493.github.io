@@ -1,3 +1,6 @@
 [submodule "repo/resource.images.arctic.waves"]
 	path = repo/resource.images.arctic.waves
 	url = https://github.com/drinfernoo/resource.images.arctic.waves
+[submodule "repo/ipcheck.autoexec"]
+	path = repo/ipcheck.autoexec
+	url = https://github.com/lowe493/kodi-ipcheck

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="ipcheck.autoexec" name="IP Check" version="1.0.0" provider-name="lowe493">
+<addons><addon id="ipcheck.autoexec" name="IP Check" version="1.0.1" provider-name="lowe493">
 
     <requires>
         <import addon="xbmc.python" version="3.0.0" />

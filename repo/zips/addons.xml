@@ -16,9 +16,9 @@
 </addon><addon id="repository.lowe493" name="lowe493 Repository" version="1.0" provider-name="lowe493">
     <extension point="xbmc.addon.repository" name="lowe493 Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/lowe493/repository.lowe493/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/lowe493/repository.lowe493/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/lowe493/repository.lowe493/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/lowe493/lowe493.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/lowe493/lowe493.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/lowe493/lowe493.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">

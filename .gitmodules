@@ -1,0 +1,3 @@
+[submodule "repo/resource.images.arctic.waves"]
+	path = repo/resource.images.arctic.waves
+	url = https://github.com/drinfernoo/resource.images.arctic.waves

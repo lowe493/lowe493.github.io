@@ -1,3 +1,16 @@
+import subprocess
+
+result = subprocess.run(
+    ["git", "submodule", "update", "--remote", "--merge"],
+    cwd=r"C:\Users\Stephen\Documents\GitHub\lowe493.github.io",
+    capture_output=True,
+    text=True
+)
+
+print("STDOUT:\n", result.stdout)
+print("STDERR:\n", result.stderr)
+print("Exit code:", result.returncode)
+
 """ 
     Put this script in the root folder of your repo and it will
     zip up all addon folders, create a new zip in your zips folder

@@ -1,6 +1,6 @@
 <addon id="ipcheck.autoexec"
        name="IP Check"
-       version="0.0.1"
+       version="1.0.1"
        provider-name="lowe493">
 
     <requires>
@@ -11,7 +11,7 @@
 
     <extension point="xbmc.addon.metadata">
         <summary>Displays your external IP on startup</summary>
-        <description>Checks and shows your public IP when Kodi starts.</description>
+        <description>Checks and shows your public IP when Kodi starts and every 10 mins.</description>
         <platform>all</platform>
     </extension>
 

@@ -1,3 +1,6 @@
 [submodule "repo/ipcheck.autoexec"]
 	path = repo/ipcheck.autoexec
 	url = https://github.com/lowe493/kodi-ipcheck
+[submodule "repo/script.autosources"]
+	path = repo/script.autosources
+	url = https://github.com/lowe493/kodi-autosources.git

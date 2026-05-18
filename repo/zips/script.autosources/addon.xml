@@ -1,5 +1,5 @@
 <addon id="script.autosources"
-       name="Auto Sources"
+       name="Auto Sources Safe Sync"
        version="1.0.0"
        provider-name="lowe493">
 
@@ -12,8 +12,8 @@
     </extension>
 
     <extension point="xbmc.addon.metadata">
-        <summary>Automatically manage file sources</summary>
-        <description>Adds sources from JSON into Kodi sources.xml (files only)</description>
+        <summary>Safe Auto Sources Sync</summary>
+        <description>Atomic, backup-safe sources.xml editor (files only)</description>
         <platform>all</platform>
     </extension>
 
